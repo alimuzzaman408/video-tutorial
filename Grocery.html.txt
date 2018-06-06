@@ -1,7 +1,11 @@
 <ul>
 <li> Apple</li>
 <li> Banana</li>
+<<<<<<< HEAD
 <li> Almond Milk</li>
+=======
+<li> Milk</li>
+>>>>>>> cf956c20d88785c99351dd410f86f0c13325941e
 <li> Vegetable</li>
 <li> ookies</li>
 </ul>
